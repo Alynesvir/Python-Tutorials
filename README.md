@@ -1,6 +1,6 @@
 # Python-Tutorials
 
-# Basics
+<H1>Basics</H1>
 conditional statements (if, else, elif)
 loops (for, a while)
 functions
@@ -14,7 +14,7 @@ manipulating dates (less common at a-level: times)
 recursion
 OOP
 
-Algorithms:
+<H2>Algorithms:</H2>
 linear search
 binary search
 bubble sort
@@ -22,7 +22,7 @@ insertion sort
 quick sort
 merge sort
 
-Data Structures:
+<h2>Data Structures:</h2>
 linked list
 stack
 queue
