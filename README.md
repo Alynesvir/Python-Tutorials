@@ -15,19 +15,19 @@ recursion
 OOP
 
 <H1>Algorithms:</H1>
-linear search
+<!-- linear search
 binary search
 bubble sort
 insertion sort
 quick sort
-merge sort
+merge sort -->
 
 <h1>Data Structures:</h1>
-linked list
+<!-- linked list
 stack
 queue
 binary search tree
-hash table
+hash table -->
 
 <h1>Applications:</h1>
 sqlite workflow
