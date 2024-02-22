@@ -15,7 +15,7 @@ recursion
 OOP
 
 <H2>Algorithms:</H2>
-linear search
+linear search/n
 binary search
 bubble sort
 insertion sort
