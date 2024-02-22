@@ -15,12 +15,12 @@ recursion<br>
 OOP
 
 <H1>Algorithms:</H1>
-#linear search<br>
-#binary search<br>
-#bubble sort<br>
-#insertion sort<br>
-#quick sort<br>
-#merge sort<br>
+linear search<br>
+binary search<br>
+bubble sort<br>
+insertion sort<br>
+quick sort<br>
+merge sort<br>
 
 <h1>Data Structures:</h1>
 linked list <br>
