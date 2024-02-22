@@ -14,22 +14,22 @@ manipulating dates (less common at a-level: times)
 recursion
 OOP
 
-<H2>Algorithms:</H2>
-linear search/n
+<H1>Algorithms:</H1>
+linear search
 binary search
 bubble sort
 insertion sort
 quick sort
 merge sort
 
-<h2>Data Structures:</h2>
+<h1>Data Structures:</h1>
 linked list
 stack
 queue
 binary search tree
 hash table
 
-Applications:
+<h1>Applications:</h1>
 sqlite workflow
 flask workflow (you can also break this down into client-side (HTML, CSS) and server-side (Python) components, with extensions to storage (text files, databases) 
 NoSQL (MongoDB) workflow
