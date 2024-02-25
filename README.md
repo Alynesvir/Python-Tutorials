@@ -17,25 +17,31 @@
 </ul>
 
 <H1>Algorithms:</H1>
-- linear search
-- binary search
-- bubble sort
-- insertion sort
-- quick sort
--merge sort
+<ul>
+<li>linear search</li>
+<li>binary search</li>
+<li>bubble sort</li>
+<li>insertion sort</li>
+<li>quick sort</li>
+<li>merge sort</li>
+</ul>
 
 <h1>Data Structures:</h1>
-linked list <br>
-stack <br>
-queue <br>
-binary search tree <br>
-hash table <br>
+<ul>
+<li>linked list</li>
+<li>stack</li>
+<li>queue</li>
+<li>binary search tree</li>
+<li>hash table</li>
+</ul>
 
 <h1>Applications:</h1>
-sqlite workflow <br>
-flask workflow (you can also break this down into client-side (HTML, CSS) and server-side (Python) components, with extensions to storage (text files, databases) <br>
-NoSQL (MongoDB) workflow <br>
-socket programming workflow <br>
+<ul>
+<li>sqlite workflow</li>
+<li>flask workflow (you can also break this down into client-side (HTML, CSS) and server-side (Python) components, with extensions to storage (text files, databases)</li>
+<li>NoSQL (MongoDB) workflow</li>
+<li>socket programming workflow</li>
+</ul>
 
 <h1>Youtube Tutorial Playlist:</h1>
   https://www.youtube.com/playlist?list=PLXUCeXTunLdiVvxJLrw6G6CleAVqPe6bY
