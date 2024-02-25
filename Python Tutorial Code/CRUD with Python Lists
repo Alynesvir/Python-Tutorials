@@ -1,0 +1,10 @@
+# crud with python list
+balls = ['red', 'green', 'blue', 'red', 'yellow', 'blue']
+balls.pop()
+balls.pop()
+balls.insert(2, 'yellow')
+balls.append('red')
+balls.pop(4)
+del balls[0]
+balls.insert(0, 'blue')
+balls.remove('blue')
