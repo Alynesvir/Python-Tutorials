@@ -13,7 +13,7 @@
 <li>file io (non-delimited, csv, json)</li>
 <li>manipulating dates (less common at a-level: times)</li>
 <li>recursion</li>
-<li>OOP</li>
+<li>OOP(Object-Oriented Programming)</li>
 </ul>
 
 <H1>Algorithms:</H1>
