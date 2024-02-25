@@ -35,4 +35,5 @@ flask workflow (you can also break this down into client-side (HTML, CSS) and se
 NoSQL (MongoDB) workflow <br>
 socket programming workflow <br>
 
-<h1>Youtube Tutorial Playlist:https://www.youtube.com/playlist?list=PLXUCeXTunLdiVvxJLrw6G6CleAVqPe6bY</h1>
+<h1>Youtube Tutorial Playlist:</h1>
+  https://www.youtube.com/playlist?list=PLXUCeXTunLdiVvxJLrw6G6CleAVqPe6bY
