@@ -1,9 +1,10 @@
 # Python-Tutorials
 
 <H1>Basics</H1>
-- conditional statements (if, else, elif)<br>
-- loops (for, a while)<br>
--functions<br>
+<ul>
+conditional statements (if, else, elif)<br>
+loops (for, a while)<br>
+functions<br>
 Crud with python list/array<br>
 crud with dictionary<br>
 string common operations<br>
@@ -12,6 +13,7 @@ check digit validation<br>
 file io (non-delimited, csv, json)<br>
 manipulating dates (less common at a-level: times)<br>
 recursion<br>
+</ul>
 OOP
 
 <H1>Algorithms:</H1>
