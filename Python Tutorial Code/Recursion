@@ -1,0 +1,13 @@
+# recusion (a function that calls itself directly or indirectly)
+# Performing the same operations multiple times with different inputs.
+# In every step, we try smaller inputs to make the problem smaller.
+# Base condition is needed to stop the recursion otherwise infinite loop will occur.
+# Write a recursive program count_sum that returns the sum of all integer numbers from 1 to n.
+
+def count_sum(n):
+    if n==1: # base case
+        return 1
+    else:
+        return n+count_sum(n-1) # recusive case
+
+print(count_sum(6))
