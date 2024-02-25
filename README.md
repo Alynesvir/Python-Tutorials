@@ -2,7 +2,7 @@
 
 <H1>Basics</H1>
 <ul>
-<li>conditional statements (if, else, elif)</li><br>
+<li>conditional statements (if, else, elif)</li>
 <li>loops (for, a while)</li><br>
 <li>functions</li><br>
 <li>CRUD with python list/array</li><br>
