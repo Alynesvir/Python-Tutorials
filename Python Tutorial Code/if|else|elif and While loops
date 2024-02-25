@@ -1,0 +1,18 @@
+# if/else/elif with math operations, importing modules, while loops
+# Number Guessing Game: Write a program that prompts the user to guess a secret number between 1 and 10 (inclusive).
+# Use if, else, and elif statements to provide feedback based on the guess (too high, too low, or correct).
+
+import random
+
+secret_num = random.randint(1, 10)
+guess = int(input("Guess what the secret number is between 1 and 10: "))
+
+while guess != secret_num:
+    if guess > secret_num:
+        print("Guess is higher than number")
+        guess = int(input("Guess what the secret number is between 1 and 10: "))
+    elif guess < secret_num:
+        print("Guess is lower than number")
+        guess = int(input("Guess what the secret number is between 1 and 10: "))
+if guess == secret_num:
+        print("You guessed the correct number!")
