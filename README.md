@@ -2,20 +2,19 @@
 
 <H1>Basics</H1>
 <ul>
-conditional statements (if, else, elif)<br>
-loops (for, a while)<br>
-functions<br>
-Crud with python list/array<br>
-crud with dictionary<br>
-string common operations<br>
-validation workflow<br>
-check digit validation<br>
-file io (non-delimited, csv, json)<br>
-manipulating dates (less common at a-level: times)<br>
-recursion<br>
+<li>conditional statements (if, else, elif)</li><br>
+<li>loops (for, a while)</li><br>
+<li>functions</li><br>
+<li>CRUD with python list/array</li><br>
+<li>CRUD with dictionary</li><br>
+<li>string common operations</li><br>
+<li>validation workflow</li><br>
+<li>check digit validation</li><br>
+<li>file io (non-delimited, csv, json)</li><br>
+<li>manipulating dates (less common at a-level: times)</li><br>
+<li>recursion</li><br>
+<li>OOP</li>
 </ul>
-OOP
-
 <H1>Algorithms:</H1>
 linear search<br>
 binary search<br>
