@@ -1,9 +1,9 @@
 # Python-Tutorials
 
 <H1>Basics</H1>
-conditional statements (if, else, elif)<br>
-loops (for, a while)<br>
-functions<br>
+- conditional statements (if, else, elif)<br>
+- loops (for, a while)<br>
+-functions<br>
 Crud with python list/array<br>
 crud with dictionary<br>
 string common operations<br>
