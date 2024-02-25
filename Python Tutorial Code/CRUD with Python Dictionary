@@ -1,0 +1,26 @@
+# crud with python dictionary, data valiadation !python --version
+def roman_numeral_converter(num):
+    if str(num).isdigit() == False:
+        return 'Please enter a number.'
+    elif not 1 <= num <= 1000:
+        return "Number must be between 1 and 1000"
+    else:
+        roman_dict = {1000: "M", 900: "CM", 500: "D", 400: "CD", 100: "C", 90: "XC",
+                      50: "L", 40: "XL", 10: "X", 9: "IX", 5: "V", 4: "IV", 1: "I",}
+        roman_numeral = ""
+        roman_numeral = ""
+        for value, symbol in roman_dict.items():
+            while num >= value:
+                roman_numeral += symbol
+                num -= value
+
+        return roman_numeral
+
+# Test cases
+print(roman_numeral_converter(3))  # Output: III
+print(roman_numeral_converter(4))  # Output: IV
+print(roman_numeral_converter(9))  # Output: IX
+print(roman_numeral_converter(50))  # Output: L
+print(roman_numeral_converter(100))  # Output: C
+print(roman_numeral_converter(3999))  # Output: Number between 1 and 1000
+print(roman_numeral_converter('a')) # Output: Please enter a number.
