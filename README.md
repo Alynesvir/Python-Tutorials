@@ -3,16 +3,16 @@
 <H1>Basics</H1>
 <ul>
 <li>conditional statements (if, else, elif)</li>
-<li>loops (for, a while)</li><br>
-<li>functions</li><br>
-<li>CRUD with python list/array</li><br>
-<li>CRUD with dictionary</li><br>
-<li>string common operations</li><br>
-<li>validation workflow</li><br>
-<li>check digit validation</li><br>
-<li>file io (non-delimited, csv, json)</li><br>
-<li>manipulating dates (less common at a-level: times)</li><br>
-<li>recursion</li><br>
+<li>loops (for, a while)</li>
+<li>functions</li>
+<li>CRUD with python list/array</li>
+<li>CRUD with dictionary</li>
+<li>string common operations</li>
+<li>validation workflow</li>
+<li>check digit validation</li>
+<li>file io (non-delimited, csv, json)</li>
+<li>manipulating dates (less common at a-level: times)</li>
+<li>recursion</li>
 <li>OOP</li>
 </ul>
 <H1>Algorithms:</H1>
