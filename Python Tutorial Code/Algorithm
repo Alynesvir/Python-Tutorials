@@ -1,0 +1,29 @@
+# algorithm(procedure used for solving a problem or performing a computation); sorting algorithm
+num_lst1= [23, 12]
+num_lst2= [23, 12, 8]
+num_lst3 = [23, 12, 8, 14, 17, 11, 19]
+
+def bubble_sort(seq):
+    counter=0
+    for comfirmed in range(len(seq)-1,-1,-1):
+        for index in range(comfirmed):
+            counter+=1
+            if seq[index]>seq[index+1]:
+                #swap here
+                seq[index],seq[index+1]=seq[index+1],seq[index]
+    return counter
+
+def optimized_bubble_sort(seq):
+    counter=0
+    for j in range((len(seq) - 1), -1, -1):
+        swapped = False
+        for i in range(j):
+            counter+=1
+            if seq[i] > seq[i + 1]:
+                seq[i], seq[i + 1] = seq[i + 1], seq[i]
+                swapped = True
+        if swapped == False:
+            break
+    return counter
+
+print(bubble_sort(num_lst3))
