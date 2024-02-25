@@ -1,1 +1,11 @@
-
+# intro to python
+# this program says hello and asks for your name.
+print("Hello World!")
+print("What is your name?")
+print("What is your age?")
+myName = input("Name: ")
+age = input("Age: ")
+print('It is good to meet to you, ' + myName) # addition operation
+print('The length of your name is: ')
+print(len(myName))
+print('You will be ' + str(int(age)+1) + ' in a year')
