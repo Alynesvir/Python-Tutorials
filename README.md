@@ -15,13 +15,14 @@
 <li>recursion</li>
 <li>OOP</li>
 </ul>
+
 <H1>Algorithms:</H1>
-linear search<br>
-binary search<br>
-bubble sort<br>
-insertion sort<br>
-quick sort<br>
-merge sort<br>
+- linear search
+- binary search
+- bubble sort
+- insertion sort
+- quick sort
+-merge sort
 
 <h1>Data Structures:</h1>
 linked list <br>
